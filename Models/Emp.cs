@@ -12,5 +12,6 @@ namespace WebAppGTExer01.Models
         public string EDesig { get; set; }
         public DateTime EDOJ { get; set; }
 
+
     }
 }
